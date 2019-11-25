@@ -1,0 +1,146 @@
+body{
+    
+
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin: none;
+    background: no-repeat;
+    background: rgb(248, 248, 245);
+   
+}
+.mej
+{
+    position: relative;
+    position: fixed;
+    display: block;
+    margin-bottom: 0%;
+    padding: 1.5%;
+    height: 70%;
+    width: 45%;
+    margin-left: 27.5%;
+    margin-right: 27.5%;
+    border: 1px solid #1d787a;
+    background: rgb(255,135,6);
+    background: linear-gradient(135deg, rgba(255,135,6,1) 0%, rgba(238,151,48,0.42620798319327735) 37%, rgba(154,231,255,1) 100%);
+}
+
+form
+{
+    justify-content: center;
+  align-items: center;
+  position: relative;
+  
+}
+.header
+{
+    height: auto;
+    width: auto;
+    padding-top: 0px ;
+}
+
+.footer
+{
+    height: auto;
+    width: auto;
+    padding-top: 0px ;
+    
+}
+
+
+.nkar1{
+width: 100%;
+height: 15%;
+margin-top: 0%;
+}
+
+.nkar2 
+{
+width: 100%;
+height: 10%;
+margin-top: 37%;
+}
+
+
+input, textarea
+{
+    
+    display: block;
+    width: 80%;
+    margin: 2px ;
+    margin-left: 10%;
+    padding: 1px;
+    border: 1px solid #1d787a;
+    border-radius: 5px;
+    outline: 1px  #A7A7A9;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 7px;
+    transition: 0.5s;
+    
+
+}
+
+input:hover{
+    border: 1px solid #003307;
+}
+input:focus{
+    border: 1px solid #453f3c;
+}
+textarea:hover{
+    border: 1px solid #003307;
+}
+textarea:focus{
+    border: 1px solid #453f3c;
+}
+
+#urls 
+{
+    cursor: copy;
+}
+button
+ {
+    background:   rgb(255, 255, 93);
+    border: none;
+    padding: 3%;
+    transition: 0.5s;
+    cursor: pointer;
+    border-radius: 5px ;
+    font-size: 8px;
+    font-family: 'Raleway', sans-serif;
+    cursor: pointer;
+    margin-left: 65%;
+    margin-top: 5%;
+    display: block;
+    color:#453f3c ;
+    text-shadow: 0.2px 0.2px #453f3c;
+
+
+}
+button:hover {
+    background:  rgb(255, 129, 27) ;
+    border: 1px solid #ffee5a;
+    padding: 3%;
+    border-radius: 5px ;
+    font-size: 8px;
+    font-family: 'Raleway', sans-serif;
+
+
+}
+
+.wrong
+{
+    border: 1px solid red;
+    background: #BA5A31;
+   
+    
+    
+}
+.wrong:hover {
+    border:1px solid rgb(255, 123, 123);
+    background: white;
+   
+    
+}
+
+
